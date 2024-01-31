@@ -118,6 +118,13 @@ window.addEventListener('scroll', scrollActive)
 /*--------redirection of project pages---------*/
 
 function redirectToInternshipPage() {
-window.location.href = "internship.html";
-}
+  window.location.href = "internship.html";
+  }
 
+function redirectToOilPackagingPage() {
+  window.location.href = "oilpackaging.html";
+  }
+
+function redirectToBrandingPage() {
+  window.location.href = "branding.html";
+  }
