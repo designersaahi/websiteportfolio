@@ -464,7 +464,7 @@ h3{
 }
 
 /* ----- CONTACT FORM ----- */
-.form-control{
+form {
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -475,7 +475,7 @@ h3{
     gap: 10px;
     width: 100%;
 }
-.input-field{
+input {
     width: 50%;
     height: 55px;
     background: transparent;
