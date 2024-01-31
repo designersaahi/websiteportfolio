@@ -36,7 +36,7 @@ const srRight = ScrollReveal({
     origin: 'left',
     distance: '80px',
     duration: 1000,
-    reset: true
+    reset: false
     })
     
     srRight.reveal('.containerimages',{delay: 100})
