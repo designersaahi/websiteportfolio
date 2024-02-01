@@ -85,7 +85,7 @@ reset: true
 })
 
 srRight.reveal('.skills-box',{delay: 100})
-srRight.reveal('.form-control',{delay: 100})
+srRight.reveal('.form',{delay: 100})
 
 
 
