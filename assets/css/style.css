@@ -309,6 +309,11 @@ nav{
     color: var(--text-color-second);
     margin-bottom: 10px;
 }
+.top-header h2{
+    font-weight: 600;
+    color: var(--text-color-second);
+    margin-bottom: 10px;
+}
 .top-header span{
     color: #999;
 }
