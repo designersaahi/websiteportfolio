@@ -92,9 +92,6 @@ body{
 }
 
 /* ----- NAVIGATION BAR ----- */
-.container header{
-    
-}
 nav{
     position: fixed;
     display: flex;
@@ -113,7 +110,6 @@ nav{
 .nav-name{
     font-size: 35px;
     font-weight: 100;
-    letter-spacing: 0.5rem;
     font-weight: 600;
     color: var(--text-color-third);
 }
