@@ -106,6 +106,7 @@ nav{
 }
 .nav-logo{
    position: relative;
+   letter-spacing: 1.5px;
 }
 .nav-name{
     font-size: 35px;
