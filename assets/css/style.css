@@ -650,7 +650,7 @@ footer{
     .form-inputs{
         flex-direction: column;
     }
-    .input-field{
+    input{
         width: 100%;
     }
 }
