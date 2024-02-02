@@ -700,6 +700,19 @@ footer{
     display: block;
     margin: 0 auto;
   }
+
+.portfolio-item-small{
+    display: block;
+    margin-inline-end: auto;
+}
+
+.portfolio-item-small img{
+    width: 60%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
   
   /* Media query for screens 600 pixels wide and below */
   @media (max-width: 600px) {
