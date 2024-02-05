@@ -128,3 +128,7 @@ function redirectToOilPackagingPage() {
 function redirectToBrandingPage() {
   window.location.href = "branding.html";
   }
+
+function redirectToSustainableDesignPage() {
+  window.location.href = "sustainabledesign.html";
+ }

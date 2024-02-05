@@ -286,7 +286,7 @@ nav{
 
 /* ----- MAIN BOX ----- */
 .section{
-    padding-block: 5em;
+    padding-block: 0em;
 }
 .row{
     display: flex;
@@ -685,7 +685,7 @@ footer{
 .containerimages{
     display: block;
     position: relative;
-    padding-top: 80px;
+    padding-top: 100px;
 }
 
 .portfolio-item{
@@ -730,6 +730,22 @@ footer{
   }
 
   .video-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .embeded{
+    position: relative;
+    width: 60%;
+    margin: auto;
+    padding-bottom: 40%;
+    height: 0;
+  }
+
+  .embeded iframe{
     position: absolute;
     top: 0;
     left: 0;
