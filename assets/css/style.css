@@ -731,6 +731,7 @@ footer{
         display: block;
         margin: 0 auto;
       }
+      
   }
 
   .video-container{
@@ -751,7 +752,7 @@ footer{
 
   .embeded{
     position: relative;
-    width: 60%;
+    width: 100;
     margin: auto;
     padding-bottom: 40%;
     height: 0;
