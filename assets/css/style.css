@@ -382,6 +382,7 @@ h3{
     justify-content: space-between;
     gap: 20px;
     flex-wrap: wrap;
+    padding-bottom: 40px;
 }
 .projectimage{
     opacity: 100%;
