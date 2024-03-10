@@ -132,3 +132,7 @@ function redirectToBrandingPage() {
 function redirectToSustainableDesignPage() {
   window.location.href = "sustainabledesign.html";
  }
+
+ function redirectToCMFPage() {
+  window.location.href = "ydxtitan.html";
+ }
